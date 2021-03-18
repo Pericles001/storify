@@ -9,4 +9,4 @@
 
 ## About storify
 
-Learning laravel framework through thid*s project
+Learning laravel framework through this project
